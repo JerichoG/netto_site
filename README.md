@@ -9,9 +9,6 @@ How to install
          pip install django
          pip install --user django-import_export
      3. Enter application folder
-     4. Run django with the command "python manage.py runserver --insecure"
+     4. Run django with the command "python manage.py runserver"
 
 thank's
-
-To get a user and password please email me at
-agista.mailrespon@gmail.com
