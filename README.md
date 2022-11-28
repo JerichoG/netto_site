@@ -1,7 +1,15 @@
 # netto
 Python-Django-Paramiko-Network-Automation-For-Cisco
 
-How to install
+# Criteria 
+- Create Network Automation using Django Framework
+- Create model database using sqlite
+- Implement paramiko to send configuration trough SSH
+- Implement JSON to get input user and response from Router
+- Implement Bootstrap for Front-End
+- Create Logging system to get result of configuration
+
+# How to install
 
      1. The application runs on python version 3 and above.
      2. Install some support packages
@@ -11,4 +19,3 @@ How to install
      3. Enter application folder
      4. Run django with the command "python manage.py runserver"
 
-thank's
